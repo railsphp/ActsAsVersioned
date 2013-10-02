@@ -1,0 +1,11 @@
+{
+    "name": "railsphp/actsasversioned",
+    "autoload": {
+        "psr-0": {
+            "Rails\\ActsAsVersioned\\": "lib/Rails/ActsAsVersioned/"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
