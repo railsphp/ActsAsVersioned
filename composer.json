@@ -2,7 +2,7 @@
     "name": "railsphp/actsasversioned",
     "autoload": {
         "psr-0": {
-            "Rails\\ActsAsVersioned\\": "lib/Rails/ActsAsVersioned/"
+            "Rails\\ActsAsVersioned\\": "lib/"
         }
     },
     "require": {
